@@ -2,4 +2,4 @@ addition
 subtraction
 multiplication
 division
-floor division
+floor division extra
